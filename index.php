@@ -44,13 +44,13 @@
                 <!-- <li data-app-prevent-settings="" data-target="#slider-5" class="" data-slide-to="2"></li> -->
             </ol>
             <div class="carousel-inner" role="listbox">
-                <div class="mbr-box mbr-section mbr-section--relative mbr-section--fixed-size mbr-section--bg-adapted item dark center mbr-section--full-height active" style="background-image: url(https://images.unsplash.com/photo-1433264058539-880eb8412c9d);">
+                <div class="mbr-box mbr-section mbr-section--relative mbr-section--fixed-size mbr-section--bg-adapted item dark center mbr-section--full-height active" style="background-image: url(img/image1.jpg);">
                     <div class="mbr-box__magnet mbr-box__magnet--center-right mbr-box__magnet--sm-padding">
-                                            
+
                         <div class=" container">
-                            
+
                             <div class="row">
-                                <div class=" col-md-8 col-md-offset-2">  
+                                <div class=" col-md-8 col-md-offset-2">
 
                                 <div class="mbr-hero">
                                     <h1 class="mbr-hero__text">Consultoría en Administración</h1>
@@ -62,13 +62,13 @@
                             </div>
                         </div>
                     </div>
-                </div><div class="mbr-box mbr-section mbr-section--relative mbr-section--fixed-size mbr-section--bg-adapted item dark center mbr-section--full-height" style="background-image: url(https://images.unsplash.com/uploads/1412017894428ae87a2ba/d8b14e97);">
+                </div><div class="mbr-box mbr-section mbr-section--relative mbr-section--fixed-size mbr-section--bg-adapted item dark center mbr-section--full-height" style="background-image: url(img/image2.jpg);">
                     <div class="mbr-box__magnet mbr-box__magnet--center-left mbr-box__magnet--sm-padding">
-                                            
+
                         <div class=" container">
-                            
+
                             <div class="row">
-                                <div class=" col-md-6 col-md-offset-1">  
+                                <div class=" col-md-6 col-md-offset-1">
 
                                 <div class="mbr-hero">
                                     <h1 class="mbr-hero__text">Consultoría en Computación</h1>
@@ -82,7 +82,7 @@
                     </div>
                 </div>
             </div>
-            
+
             <a data-app-prevent-settings="" class="left carousel-control" role="button" data-slide="prev" href="#slider-5">
                 <span aria-hidden="true"><</span>
                 <span class="sr-only">Previous</span>

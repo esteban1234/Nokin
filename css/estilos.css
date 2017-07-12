@@ -949,6 +949,7 @@ html {
   padding-bottom: 41px;
   position: relative;
   top: 8px;
+  /*color: red;*/
 }
 .mbr-hero__subtext {
   font-size: 21px;
@@ -1729,6 +1730,51 @@ html {
   text-align: center;
   padding: 0;
 }
+
+
+
+
+.text-descript{
+  width: 90%;
+  margin:0 auto;
+  margin-top: 2%;
+  /*padding: 20px;*/
+  font-size: 16px;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  margin-bottom: 5%;
+}
+
+.contenboton{
+  width: 100%;
+  margin:0 auto;
+  padding: 20px 0px 20px 0px;
+  background-color: #65BFB4;
+}
+.contenbotontexto, .btn{
+  display: inline-block;
+}
+.contenbotontexto{
+  font-size: 20px;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  margin-left: 7%;
+  color: #000;
+}
+.btn{
+  margin-left: 5%;
+}
+.algunos{
+  background-color:  #ecf0f1;
+  overflow: hidden;
+  padding-bottom: 4%;
+}
+
+.algunos2{
+  background-color:  #fff;
+  overflow: hidden;
+  padding-bottom: 4%;
+}
 /*--------------FOOTER----------*/
 footer{
   width: 100%;
@@ -1752,13 +1798,14 @@ footer p{
 .ir-arriba {
   display:none;
   padding:20px;
-  background:#BABA16;;
+  background:#65BFB4;
   font-size:20px;
-  color:#fff;
+  color:#3B3B3A;
   cursor:pointer;
   position: fixed;
   bottom:20px;
   right:20px;
+  z-index: 100;
 }
 /*------------------nosotros----------*/
 

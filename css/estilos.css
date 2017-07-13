@@ -1903,6 +1903,98 @@ footer p{
     transition: all 0.5s ease 0s;
 }
 /*-------------------servicios---------------*/
+.contenservuno{
+  width: 100%;
+  overflow: hidden;
+  /*background-color: #65BFB4;*/
+  border-top: 1px #65BFB4 solid;
+}
+.container {
+  margin-top: 10px;
+  overflow: hidden;
+}
 
+.panel.panel-pink {
+  border-radius: 0px;
+  box-shadow: 0px 0px 10px #17202a;
+  border-color: #17202a;
+}
+.panel.panel-pink .panel-heading {
+  border-radius: 0px;
+  color: #FFF;
+  background-color: #17202a;
+}
+.panel.panel-pink .panel-body {
+  background-color: #F2F2F2;
+  color: #4D4D4D;
+}
+
+.panel.panel-blue {
+  border-radius: 0px;
+  box-shadow: 0px 0px 10px  #1b2631;
+  border-color:  #1b2631;
+}
+.panel.panel-blue .panel-heading {
+  border-radius: 0px;
+  color: #FFF;
+  background-color:  #1b2631;
+}
+.panel.panel-blue .panel-body {
+  background-color: #F2F2F2;
+  color: #4D4D4D;
+}
+
+.panel.panel-yellow {
+  border-radius: 0px;
+  box-shadow: 0px 0px 10px #424949;
+  border-color: #424949;
+}
+.panel.panel-yellow .panel-heading {
+  border-radius: 0px;
+  color: #FFF;
+  background-color: #424949;
+}
+.panel.panel-yellow .panel-body {
+  background-color: #F2F2F2;
+  color: #4D4D4D;
+}
+.contenservdos{
+  width: 100%;
+  overflow: hidden;
+  background-color: #f7f9f9;
+  /*border-top: 1px #65BFB4 solid;*/
+}
 
 /*-----------------contacto-----------------*/
+.formulario{
+  border-top: 1px #65BFB4 solid;
+  overflow: hidden;
+  width: 100%;
+  /*background-color: green;*/
+}
+.tituloc{
+   font-size: 20px;
+  /*text-align: center;*/
+  font-family: 'Montserrat', sans-serif;
+  margin-left: 7%;
+  color: #000;
+  margin-top: 5%;
+  margin-bottom: 3%;
+}
+.contenmapadatos{
+  overflow: hidden;
+  width: 100%;
+  background-color: #f7f9f9;
+  padding-top: 5%;
+}
+.mapa{
+  width: 50%;
+  margin-left: 8%;
+}
+.mapa iframe{
+  width: 100%;
+}
+.datos{
+  width: 42%;
+  /*border:2px red solid;*/
+}

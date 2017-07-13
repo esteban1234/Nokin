@@ -68,11 +68,11 @@
         <div class="col-xs-12 col-sm-6 col-md-4">
             <div class="box">
                 <div class="box-icon">
-                    <span class="fa fa-4x fa-html5"></span>
+                    <span class="fa fa-4x fa-check-square-o"></span>
                 </div>
                 <div class="info">
-                    <h4 class="text-center">Title</h4>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corrupti atque, tenetur quam aspernatur corporis at explicabo nulla dolore necessitatibus doloremque exercitationem sequi dolorem architecto perferendis quas aperiam debitis dolor soluta!</p>
+                    <h4 class="text-center">MISION</h4>
+                    <p style="color: #000; font-size: 16px;">Ofrecer servicios de valor a cada cliente con un enfoque integral que incluye las áreas de administración, operación e informática.</p>
                    
                 </div>
             </div>
@@ -81,11 +81,11 @@
         <div class="col-xs-12 col-sm-6 col-md-4">
             <div class="box">
                 <div class="box-icon">
-                    <span class="fa fa-4x fa-css3"></span>
+                    <span class="fa fa-4x fa-line-chart"></span>
                 </div>
                 <div class="info">
-                    <h4 class="text-center">Title</h4>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corrupti atque, tenetur quam aspernatur corporis at explicabo nulla dolore necessitatibus doloremque exercitationem sequi dolorem architecto perferendis quas aperiam debitis dolor soluta!</p>
+                    <h4 class="text-center">VISION</h4>
+                    <p style="color: #000; font-size: 16px;">Consolidarnos como una empresa de calidad con una amplia presencia en el mercado, difundir la cultura administrativa e informática y superar las expectativas de nuestros clientes.</p>
                     
                 </div>
             </div>
@@ -94,11 +94,20 @@
         <div class="col-xs-12 col-sm-6 col-md-4">
             <div class="box">
                 <div class="box-icon">
-                    <span class="fa fa-4x fa-css3"></span>
+                    <span class="fa fa-4x fa-handshake-o"></span>
                 </div>
                 <div class="info">
-                    <h4 class="text-center">Title</h4>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corrupti atque, tenetur quam aspernatur corporis at explicabo nulla dolore necessitatibus doloremque exercitationem sequi dolorem architecto perferendis quas aperiam debitis dolor soluta!</p>
+                    <h4 class="text-center">VALORES</h4>
+                    <p>
+	                  <ul class="fa-ul">
+						  <li><i class="fa-li fa fa-check-square"></i>Responsabilidad.</li>
+						  <li><i class="fa-li fa fa-check-square"></i>Seguridad.</li>
+						  <li><i class="fa-li fa fa-check-square"></i>Confidencialidad.</li>
+						  <li><i class="fa-li fa fa-check-square"></i>Orientación.</li>
+						  <li><i class="fa-li fa fa-check-square"></i>Respeto.</li>
+						  <li><i class="fa-li fa fa-check-square"></i>Trabajo en equipo.</li>
+					  </ul>
+					</p>
                     
                 </div>
             </div>
@@ -107,6 +116,10 @@
 </div>
 </article>
 
+<div style="text-align: center; width: 100%;">
+  <a href="contacto.php"><button type="button" class="btn btn-danger btn-lg">Contáctanos</button></a>
+</div>
+<br><br><br><br>
 
 <span class="ir-arriba"><i class="fa fa-chevron-up" aria-hidden="true"></i></span>
 <?php include 'pie.php' ?>

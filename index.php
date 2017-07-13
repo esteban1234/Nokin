@@ -164,7 +164,7 @@
             <!-- <div class="row my-5"> -->
 
               <div class="col-xs-12 col-lg-4">
-                <div class="col-xs-12 col-lg-12"><i class="d-block fa fa-3x fa-pencil-square-o"></i></div><br><br>
+                <div class="col-xs-12 col-lg-12"><i class="d-block fa fa-3x fa-desktop"></i></div><br><br>
                 <h4 class="new-font-tamano">ASESORAMIENTO WEB</h4>
                 <p class="alinear">Toda idea o proyecto debe tener un asesoramiento Web profesional.
                 Cualquier decision influye en el exito o rentabilidad del proyecto. Es importante tener presencia en Internet pero el como se haga será lo que diferencie el éxito del fracaso.
@@ -175,7 +175,7 @@
             <!-- <div class="row my-5"> -->
 
               <div class="col-xs-12 col-lg-4">
-                <div class="col-xs-12 col-lg-12"><i class="d-block fa fa-usd fa-3x"></i></div><br><br>
+                <div class="col-xs-12 col-lg-12"><i class="d-block fa fa-cogs fa-3x"></i></div><br><br>
                 <h4 class="new-font-tamano">SOPORTE TECNICO</h4>
                 <p class="alinear">Todos los servicios necesarios para que los sistemas se mantengan actualizados, operando adecuadamente y adaptándose a los nuevos requerimientos del negocio. Su empresa tendrá un solo punto de contacto en donde apoyarse para levantar casos de servicio, requerir adaptaciones para nueva funcionalidad del negocio o simplemente requerir reportes especializados.</p>
               </div>
@@ -184,7 +184,7 @@
             <!-- <div class="row my-5"> -->
 
               <div class="col-xs-12 col-lg-4">
-                <div class="col-xs-12 col-lg-12"><i class="d-block fa  fa-3x fa-university"></i></div><br><br>
+                <div class="col-xs-12 col-lg-12"><i class="d-block fa  fa-3x fa-pie-chart"></i></div><br><br>
                 <h4 class="new-font-tamano">Análisis, Diseño y Automatización de Procesos</h4>
                 <p class="alinear">Nuestros consultores ayudarán a su empresa a comprender mejor sus procesos de negocio y en base a un entendimiento claro, identificar las áreas de oportunidad que permitirán obtener reducciones en tiempo y costo mediante la adecuación o implementación de un sistema de información.</p>
               </div>

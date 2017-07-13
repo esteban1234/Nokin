@@ -1827,10 +1827,20 @@ footer p{
   /*border:2px red solid;*/
   width: 60%;
 }
+.uno p{
+  color: #000;
+  font-size: 16px;
+  text-align: justify;
+}
 .dos{
   /*border:2px red solid;*/
   width: 39%;
   margin-top: 1.3%;
+}
+.fa-ul{
+  color: #000;
+  font-size: 16px;
+  text-align: justify;
 }
 .mvv{
   width: 100%;
@@ -1855,6 +1865,12 @@ footer p{
     margin: 0 auto;
     width: 100px;
     margin-top: -61px;
+}
+.box:hover .box-icon {
+    background-color: #65BFB4;
+}
+.box:hover span {
+    color:#000;
 }
 .box-icon span {
     color: #fff;

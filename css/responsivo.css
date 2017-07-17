@@ -1,0 +1,317 @@
+@media screen and (max-width: 480px){
+  /******************DISEÑO INDEX**********************/
+  .logo{
+    width: 100%;
+    margin: 0px;
+  }
+
+  .logo img{
+    width: 60%;
+    margin: auto;
+  }
+
+  .tch{
+    width: 86%;
+    display: block;
+    margin: 0 auto;
+    border: .5px solid rgb(147, 170, 180);
+    padding: 10px;
+  }
+
+  .txt-fontindex{
+    font-size: 12px !important;
+    font-weight: bold;
+  }
+
+  .menu{
+    width: 100%;
+    margin: 20px 0px;
+  }
+
+  .menu ul{
+    width: 60%;
+    display: none;
+  }
+
+  .menu ul a{
+    display: block;
+    text-align: center;
+    padding: 10px;
+    border-top: .5px solid rgb(35, 113, 95);
+  }
+
+  .menu-openclose{
+    vertical-align: top;
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+    cursor: pointer;
+  }
+
+  .menu-openclose .close{
+    color: #000;
+  }
+
+  .menu-openclose .oculto{
+    display: none;
+  }
+
+  .mbr-hero__text{
+    font-size: 25px;
+    text-align: center;
+    font-weight: bold;
+  }
+
+  .mbr-buttons a{
+    margin: 14px auto;
+    width: 65%;
+  }
+
+  .font-servicio{
+    font-size: 18px;
+    font-weight: bold;
+    padding: 10px 0px;
+  }
+
+  .text-descript{
+    text-align: justify;
+    padding: 5px;
+    font-size: 15px;
+  }
+
+  .contenbotontexto{
+    text-align: justify;
+    margin: auto;
+    padding: 18px;
+    font-size: 15px;
+  }
+
+  .font-algunos{
+    text-align: center;
+    font-size: 25px;
+    padding: 10px 0px;
+  }
+
+  .new-font-tamano, .txt-center{
+    text-align: center;
+    padding: 5px;
+  }
+
+  .alinear{
+    text-align: justify;
+  }
+
+
+  /******************END INDEX************************/
+
+
+
+
+  /******************DISEÑO NOSOTROS************************/
+    .conteninin .uno, .conteninin .dos{
+      width: 100%;
+    }
+
+    .text-centernosotros{
+      text-align: center;
+    }
+
+    .mvv{
+      height: 100%;
+      margin-bottom: 5%;
+    }
+  /******************END NOSOTROS************************/
+
+  /******************DISEÑO SERVICIOS************************/
+  .txt-propiedades{
+    padding: 10px;
+  }
+
+  /******************END SERVICIOS************************/
+
+  /******************DISEÑO CONTACTO************************/
+
+    .mapa{
+      width: 98%;
+      margin: 0px auto;
+    }
+
+    .datos{
+      width: 100%;
+      margin-bottom: 10px;
+    }
+  /******************END CONTACTO************************/
+
+  /******************DISEÑO PIE************************/
+
+    footer p{
+      width: 90%;
+      font-size: 18px;
+    }
+  /******************END PIE************************/
+
+}
+
+@media screen and (max-width: 599px) and (min-width: 481px) {
+  /******************DISEÑO INDEX**********************/
+  .logo{
+    width: 100%;
+    margin: 0px;
+  }
+
+  .logo img{
+    width: 60%;
+    margin: auto;
+  }
+
+  .tch{
+    width: 70%;
+    display: block;
+    margin: 0 auto;
+    border: .5px solid rgb(147, 170, 180);
+    padding: 10px;
+  }
+
+  .txt-fontindex{
+    font-size: 12px !important;
+    font-weight: bold;
+  }
+
+  .menu{
+    width: 100%;
+    margin: 20px 0px;
+  }
+
+  .menu ul{
+    width: 60%;
+    display: none;
+  }
+
+  .menu ul a{
+    display: block;
+    text-align: center;
+    padding: 10px;
+    border-top: .5px solid rgb(35, 113, 95);
+  }
+
+  .menu-openclose{
+    vertical-align: top;
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+    cursor: pointer;
+  }
+
+  .menu-openclose .close{
+    color: #000;
+  }
+
+  .menu-openclose .oculto{
+    display: none;
+  }
+
+  .mbr-hero__text{
+    font-size: 25px;
+    text-align: center;
+    font-weight: bold;
+  }
+
+  .mbr-buttons a{
+    margin: 14px auto;
+    width: 65%;
+  }
+
+  .font-servicio{
+    font-size: 18px;
+    font-weight: bold;
+    padding: 10px 0px;
+  }
+
+  .text-descript{
+    text-align: justify;
+    padding: 5px;
+    font-size: 15px;
+  }
+
+  .contenbotontexto{
+    text-align: justify;
+    margin: auto;
+    padding: 18px;
+    font-size: 15px;
+  }
+
+  .font-algunos{
+    text-align: center;
+    font-size: 25px;
+    padding: 10px 0px;
+  }
+
+  .new-font-tamano, .txt-center{
+    text-align: center;
+    padding: 5px;
+  }
+
+  .alinear{
+    text-align: justify;
+  }
+
+
+  /******************END INDEX************************/
+
+
+
+
+  /******************DISEÑO NOSOTROS************************/
+    .conteninin .uno, .conteninin .dos{
+      width: 100%;
+    }
+
+    .text-centernosotros{
+      text-align: center;
+    }
+
+    .mvv{
+      height: 100%;
+      margin-bottom: 5%;
+    }
+  /******************END NOSOTROS************************/
+
+  /******************DISEÑO SERVICIOS************************/
+  .txt-propiedades{
+    padding: 10px;
+  }
+
+  /******************END SERVICIOS************************/
+
+  /******************DISEÑO CONTACTO************************/
+
+    .mapa{
+      width: 98%;
+      margin: 0px auto;
+    }
+
+    .datos{
+      width: 100%;
+      margin-bottom: 10px;
+    }
+  /******************END CONTACTO************************/
+
+  /******************DISEÑO PIE************************/
+
+    footer p{
+      width: 90%;
+      font-size: 18px;
+    }
+  /******************END PIE************************/
+
+}
+
+@media screen and (max-width: 799px) and (min-width: 600px) {}
+
+@media screen and (max-width: 1023px) and (min-width: 800px) {}
+
+@media screen and (max-width: 1280px) and (min-width: 1024px) {      /* mac*/
+}
+@media screen and (max-width: 1366px) and (min-width: 1024px) { }
+
+@media screen and (min-width: 1367px) { }

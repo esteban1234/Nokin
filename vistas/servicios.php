@@ -30,15 +30,19 @@
       <a class="marca select" href="servicios.php">SERVICIOS</a>
       <a class="marca" href="contacto.php">CONTACTO</a>
     </ul>
+    <div class="menu-openclose">
+      <i class="fa fa-bars fa-3x open" aria-hidden="true"></i>
+      <i class="fa fa-times fa-3x close oculto" style="color:green" aria-hidden="true"></i>
+    </div>
   </div>
 </header>
 
 <article class="contenservuno">
-        
+
         <div class="container">
     <div class="row">
 
-    <h1 style="width: 100%;  margin-top: 5%; color: #3B3B3A; border-bottom: 1px black solid; padding-bottom: 1%;">Servicios <small>Consultoría en Administración</small></h1> <br><br><br>
+    <h1 class="text-centernosotros txt-propiedades" style="width: 100%;  margin-top: 5%; color: #3B3B3A; border-bottom: 1px black solid; padding-bottom: 1%;">Servicios <small>Consultoría en Administración</small></h1> <br><br><br>
 
     <div class="col-sm-4">
            <div class="panel panel-blue">
@@ -75,8 +79,8 @@
             </div>
           </div>
         </div>
-        
-        
+
+
     </div>
 
     <div class="row">
@@ -85,13 +89,13 @@
             <div class="panel-heading">Capacitación Focalizada</div>
             <div class="panel-body">
             Adecuada a Necesidades, por Actualización en Puestos y/o Requerimientos Solicitados a la Empresa.
- 
+
 			Estamos comprometidos con sus resultados.
 			Por ello desarrollamos y aplicamos las técnicas más efectivas del mercado en materia de cursos de capacitación y desarrollo de competencias.
 			</div>
           </div>
         </div>
-        
+
         <div class="col-sm-4">
            <div class="panel panel-yellow">
             <div class="panel-heading">Administración Financiera</div>
@@ -115,15 +119,15 @@
         </div>
     </div>
 </div>
-        
+
 </article>
 
 <article class="contenservdos">
-        
+
         <div class="container">
     <div class="row">
 
-    <h1 style="width: 100%;  margin-top: 5%; color: #3B3B3A; border-bottom: 1px black solid; padding-bottom: 1%;">Servicios <small>Consultoría en Computación</small></h1> <br><br><br>
+    <h1 class="text-centernosotros txt-propiedades" style="width: 100%;  margin-top: 5%; color: #3B3B3A; border-bottom: 1px black solid; padding-bottom: 1%;">Servicios <small>Consultoría en Computación</small></h1> <br><br><br>
         <div class="col-sm-4">
            <div class="panel panel-pink">
             <div class="panel-heading">Networking y Comunicaciones</div>
@@ -164,7 +168,7 @@
 			</div>
           </div>
         </div>
-        
+
     </div>
 
     <div class="row">
@@ -176,7 +180,7 @@
 			</div>
           </div>
         </div>
-        
+
         <div class="col-sm-4">
            <div class="panel panel-yellow">
             <div class="panel-heading">Fabrica de Software y Seguridad Aplicativa</div>
@@ -202,11 +206,12 @@
 </div>
 <br><br><br>
 </article>
-    
+
 
 <span class="ir-arriba"><i class="fa fa-chevron-up" aria-hidden="true"></i></span>
 <?php include 'pie.php' ?>
 <script src="../js/jquery.js"></script>
+<script src="../js/menu.js"></script>
 <script src="../js/bootstrap.js"></script>
 <script src="../js/botonarriba.js"></script>
 </body>

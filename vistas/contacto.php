@@ -30,6 +30,10 @@
       <a class="marca" href="servicios.php">SERVICIOS</a>
       <a class="marca select" href="contacto.php">CONTACTO</a>
     </ul>
+    <div class="menu-openclose">
+      <i class="fa fa-bars fa-3x open" aria-hidden="true"></i>
+      <i class="fa fa-times fa-3x close oculto" style="color:green" aria-hidden="true"></i>
+    </div>
   </div>
 </header>
 
@@ -47,14 +51,14 @@
                 <label>Correo</label>
                 <input class="form-control" placeholder="Escribe tu correo" type="text">
             </div>
-    
+
             <div class="col-sm-8 col-md-8">
                 <div class="form-group">
-                    <label>Comentario</label> 
+                    <label>Comentario</label>
                     <textarea class="col-sm-3 col-md-3 form-control" id="message" name="message" rows="8" placeholder="Escribe tu comentario"></textarea>
                     <button style="margin-top: 5%;" class="btn btn-danger pull-right" type="submit">ENVIAR</button>
                 </div>
-            </div>            
+            </div>
         </div>
     </form>
 </div>
@@ -75,12 +79,12 @@
                 <div class="info">
                     <h4 class="text-center">Correo</h4>
                     <p style="text-align: center;">info@nokinservicios.com</p>
-                    
+
                 </div>
             </div>
         </div>
 
-        
+
 
         <div class=" col-md-6">
             <div class="box">
@@ -90,12 +94,12 @@
                 <div class="info">
                     <h4 class="text-center">Teléfono</h4>
                     <p style="text-align: center;">Pendiente</p>
-                    
+
                 </div>
             </div>
         </div>
 
-        
+
 
         <div class=" col-md-6">
             <div class="box">
@@ -105,7 +109,7 @@
                 <div class="info">
                     <h4 class="text-center">Horario</h4>
                     <p style="text-align: center;">Lunes a Viernes de 9am a 6pm</p>
-                    
+
                 </div>
             </div>
         </div>
@@ -118,7 +122,7 @@
                 <div class="info">
                     <h4 class="text-center">Dirección</h4>
                     <p style="text-align: center;">C. Tuxpan # 39 int. 703-a entre Q.Roo y Tehuantepec, Col. Roma Sur. Deleg. Cuauhtémoc, CD Mx. C.P. 06760.</p>
-                    
+
                 </div>
             </div>
         </div>
@@ -128,6 +132,7 @@
 <span class="ir-arriba"><i class="fa fa-chevron-up" aria-hidden="true"></i></span>
 <?php include 'pie.php' ?>
 <script src="../js/jquery.js"></script>
+<script src="../js/menu.js"></script>
 <script src="../js/sendCORREO.js"></script>
 <script src="../js/bootstrap.js"></script>
 <script src="../js/botonarriba.js"></script>

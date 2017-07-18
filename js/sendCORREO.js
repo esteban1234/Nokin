@@ -40,13 +40,13 @@ function sendCORREO(){
 						__('_AJAX_PRE_').innerHTML = connect.responseText;
 					}
 				}
-
-				else if (connect.readyState != 4){
-					LimpiarCampos();
-				}
+				//
+				// else if (connect.readyState != 4){
+				// 	LimpiarCampos();
+				// }
 			}
 
-			connect.open('POST','vistas/envia.php',true);
+			connect.open('POST','envia.php',true);
 			connect.setRequestHeader('Content-Type','application/x-www-form-urlencoded');
 			connect.send(form);
 		}

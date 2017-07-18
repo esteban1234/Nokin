@@ -22,15 +22,16 @@ $mail->From = $correo;
 $mail->FromName = $nombre;
 
 //To address and name
-$mail->addAddress("info@nokinservicios.com");
+// $mail->addAddress("info@nokinservicios.com");
+$mail->addAddress("ballina.santiago@gmail.com");
 
 
 $mail->isHTML(true);
 
 $mail->Subject = "Cotización Nokin";
 $mail->Body = "
-              <b>Telefono: </b>.$telefono.<br/>
-              <b>Comentario: </b>.$comentario.<br/>";
+              <b>Telefono: </b>$telefono<br/>
+              <b>Comentario: </b>$comentario<br/>";
 // $mail->AltBody = "This is the plain text version of the email content";
 
 if(!$mail->send())

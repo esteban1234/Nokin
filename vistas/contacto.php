@@ -41,22 +41,23 @@
 <div class="formulario">
 <p class="tituloc">Escribenos tus comentario, dudas o preguntas, estamos para servirte.</p>
 	<div class="container">
-    <form class="well col-sm-12 col-md-12">
+    <form class="well col-sm-12 col-md-12" onSubmit="return false">
         <div class="row">
             <div class="col-sm-4 col-md-4">
                 <label>Nombre Completo</label>
-                <input class="form-control" placeholder="Escribe tu nombre completo" type="text"> <br>
+                <input id="txtNOMBRE" class="form-control" placeholder="Escribe tu nombre completo" type="text"> <br>
                 <label>Teléfono</label>
-                <input class="form-control" placeholder="Escribe tu teléfono completo" type="text"> <br>
+                <input id="txtTELEFONO" class="form-control" placeholder="Escribe tu teléfono completo" type="text"> <br>
                 <label>Correo</label>
-                <input class="form-control" placeholder="Escribe tu correo" type="text">
+                <input id="txtCORREO" class="form-control" placeholder="Escribe tu correo" type="text">
             </div>
 
             <div class="col-sm-8 col-md-8">
                 <div class="form-group">
                     <label>Comentario</label>
-                    <textarea class="col-sm-3 col-md-3 form-control" id="message" name="message" rows="8" placeholder="Escribe tu comentario"></textarea>
-                    <button style="margin-top: 5%;" class="btn btn-danger pull-right" type="submit">ENVIAR</button>
+                    <textarea id="txtCOMENTARIO" class="col-sm-3 col-md-3 form-control"  name="message" rows="8" placeholder="Escribe tu comentario"></textarea>
+                    <div id="_AJAX_PRE_"></div>
+                    <button style="margin-top: 5%;" class="btn btn-danger pull-right"  onclick="sendCORREO()">ENVIAR</button>
                 </div>
             </div>
         </div>

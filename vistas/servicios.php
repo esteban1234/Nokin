@@ -113,7 +113,7 @@
            <div class="panel panel-blue">
             <div class="panel-heading">Cursos de Capacitación</div>
             <div class="panel-body">
-            Es por eso que en NOKIN, ofrecemos ; certificaciones en administración y desarrollo organizacional.
+            En NOKIN ofrecemos; certificaciones en administración y desarrollo organizacional.
 			</div>
           </div>
         </div>
@@ -127,7 +127,7 @@
         <div class="container">
     <div class="row">
 
-    <h1 class="text-centernosotros txt-propiedades" style="width: 100%;  margin-top: 5%; color: #3B3B3A; border-bottom: 1px black solid; padding-bottom: 1%;">Servicios <small>Consultoría en Computación</small></h1> <br><br><br>
+    <h1 class="text-centernosotros txt-propiedades" style="width: 100%;  margin-top: 5%; color: #3B3B3A; border-bottom: 1px black solid; padding-bottom: 1%;">Servicios <small>Consultoría Informática</small></h1> <br><br><br>
         <div class="col-sm-4">
            <div class="panel panel-pink">
             <div class="panel-heading">Networking y Comunicaciones</div>
@@ -194,7 +194,7 @@
            <div class="panel panel-blue">
             <div class="panel-heading">Cursos de Capacitación</div>
             <div class="panel-body">
-            Es por eso que en NOKIN, ofrecemos ; certificaciones en seguridad y soporte.
+            En NOKIN ofrecemos; certificaciones en seguridad y soporte.
 			</div>
           </div>
         </div>

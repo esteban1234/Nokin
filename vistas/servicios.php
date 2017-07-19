@@ -5,7 +5,7 @@
   <figure class="logo">
     <img src="../img/nokin.png" class="img-responsive" alt="">
   </figure>
-  <div class="tch">
+  <!-- <div class="tch">
     <span class="fa-stack fa-lg">
       <i class="fa fa-circle fa-stack-2x"></i>
       <i class="fa fa-phone fa-stack-1x fa-inverse"></i>
@@ -21,7 +21,7 @@
       <i class="fa fa-envelope-o fa-stack-1x fa-inverse"></i>
     </span>
             <span style="color: #65BFB4; font-size: 17px;">info@nokinservicios.com</span><br>
-  </div>
+  </div> -->
 
   <div class="menu">
     <ul>

@@ -18,17 +18,16 @@ header{
 .logo, .tch, .menu{
   display: inline-block;
 }
-.tch{
+/*.tch{
   width: 22%;
-  /*border:2px red solid;*/
   vertical-align: top;
   margin-top: 4%;
   margin-left: 1%;
-}
+}*/
 .menu{
   vertical-align: top;
   margin-top: 6%;
-  margin-left: 5%;
+  margin-left: 22%;
 }
 .menu ul {
   /*border: 2px red solid;*/

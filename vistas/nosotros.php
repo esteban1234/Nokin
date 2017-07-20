@@ -66,7 +66,7 @@
 	</div>
 </article>
 
-<article class="mvv">
+<article class="mvv alto-total">
 	<div class="container" style="margin-top: 5%;">
     <div class="row" style="padding-bottom: 2%;">
         <div class="col-xs-12 col-sm-6 col-md-4">

@@ -124,9 +124,8 @@
           <div class="row">
             <!-- <div class="row my-5"> -->
 
-              <a style="color: #000;" href="vistas/servicios.php"><div class="col-xs-12 col-lg-4">
-              <img style="height: 268px; width: 100%;" src="img/auditoria-de-control-interno.jpg"
-            class="img-responsive">
+              <a style="color: #000;" href="vistas/servicios.php"><div class="col-xs-12 col-md-4 col-lg-4">
+              <img style="height: 268px; width: 100%;" src="img/auditoria-de-control-interno.jpg" class="img-responsive">
                 <!-- <div class="col-xs-12 col-lg-12 txt-center"><i class="d-block fa fa-3x fa-pencil-square-o"></i></div><br><br> -->
                 <h4 class="new-font-tamano text-center">AUDITORÍA DE CONTROL INTERNO</h4>
                 <!-- <p class="alinear">Control e información de la operaciones, puesto que permite el manejo adecuado de los bienes, funciones e información de una empresa determinada, con el fin de generar una indicación confiable de su situación y sus operaciones en el mercado.</p> -->
@@ -135,7 +134,7 @@
             <!-- </div> -->
             <!-- <div class="row my-5"> -->
 
-              <a style="color: #000;" href="vistas/servicios.php"><div class="col-xs-12 col-lg-4">
+              <a style="color: #000;" href="vistas/servicios.php"><div class="col-xs-12 col-md-4 col-lg-4">
               <img style="height: 268px; width: 100%;" src="img/auditoria-financiera.jpg"
             class="img-responsive">
                 <!-- <div class="col-xs-12 col-lg-12 txt-center"><i class="d-block fa fa-usd fa-3x"></i></div><br> -->
@@ -146,7 +145,7 @@
             <!-- </div> -->
             <!-- <div class="row my-5"> -->
 
-              <a style="color: #000;" href="vistas/servicios.php"><div class="col-xs-12 col-lg-4">
+              <a style="color: #000;" href="vistas/servicios.php"><div class="col-xs-12 col-md-4 col-lg-4">
               <img style="height: 268px; width: 100%;" src="img/auditoria-legal.jpg"
             class="img-responsive">
                 <!-- <div class="col-xs-12 col-lg-12 txt-center"><i class="d-block fa  fa-3x fa-university"></i></div><br><br> -->
@@ -175,7 +174,7 @@
           <div class="row">
             <!-- <div class="row my-5"> -->
 
-             <a style="color: #000;" href="vistas/servicios.php"> <div class="col-xs-12 col-lg-4">
+             <a style="color: #000;" href="vistas/servicios.php"> <div class="col-xs-12 col-md-4 col-lg-4">
                <img style="height: 268px; width: 100%;" src="img/asesoramiento-web.jpg"
                            class="img-responsive">
                  <!-- <div class="col-xs-12 col-lg-12 txt-center"><i class="d-block fa fa-3x fa-desktop"></i></div><br><br> -->
@@ -188,7 +187,7 @@
             <!-- </div> -->
             <!-- <div class="row my-5"> -->
 
-              <a style="color: #000;" href="vistas/servicios.php"><div class="col-xs-12 col-lg-4">
+              <a style="color: #000;" href="vistas/servicios.php"><div class="col-xs-12 col-md-4 col-lg-4">
               <img style="height: 268px; width: 100%;" src="img/soporte-tecnico.jpg"
             class="img-responsive">
                 <!-- <div class="col-xs-12 col-lg-12 txt-center"><i class="d-block fa fa-cogs fa-3x"></i></div><br><br> -->
@@ -199,7 +198,7 @@
             <!-- </div> -->
             <!-- <div class="row my-5"> -->
 
-              <a style="color: #000;" href="vistas/servicios.php"><div class="col-xs-12 col-lg-4">
+              <a style="color: #000;" href="vistas/servicios.php"><div class="col-xs-12 col-md-4 col-lg-4">
               <img style="height: 268px; width: 100%;" src="img/automatizacion-de-proyectos.jpg"
             class="img-responsive">
                 <!-- <div class="col-xs-12 col-lg-12 txt-center"><i class="d-block fa  fa-3x fa-pie-chart"></i></div><br><br> -->
